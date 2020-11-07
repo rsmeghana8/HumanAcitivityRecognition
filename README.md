@@ -6,3 +6,5 @@ Performance of different ML models and a LSTM Model is compared.
  # Dataset
  https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones\n
 
+# Acknowledgments
+• Applied AI Course
